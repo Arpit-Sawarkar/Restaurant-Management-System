@@ -58,12 +58,7 @@ Restaurant-Management-System
 
 ## 📥 Download APK
 
-## Download Application
-
-### Shivshahi Restaurant
-[Download EXE](dist/Shivshahi%20Restaurant.exe)
-
-### Shivshahi Restaurant --> [Download](RESTAURANT MANAGMENT SYSTEM/dist/Shivshahi Restaurant.exe)
+### Shivshahi Restaurant --> [Download EXE](dist/Shivshahi%20Restaurant.exe)
 
 ## 📸 Screenshots
 ![Login / Signup](Image/login.png)
