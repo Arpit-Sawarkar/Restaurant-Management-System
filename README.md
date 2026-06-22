@@ -28,23 +28,26 @@ The proposed solution is a Restaurant Management System that automates restauran
 ## 📂 Project Structure
 ```
 Restaurant-Management-System
-│
-├── auth
-│   ├── login.py
-│   └── signup.py
-├── billing
-│   ├── bill_generator.py
-│   └── bill_history.py
-├── dashboard
-│   ├── dashboard.py
-│   ├── calculator.py
-│   └── profile.py
-├── database
-│   ├── db_connection.py
-│   └── queries.py 
-├── session.py
-└── main.py
-
+├── Restaurant-Management-System
+|    ├── auth
+|    │     ├── login.py
+|    │     └── signup.py
+|    ├── billing
+|    │    ├── bill_generator.py
+|    │    └── bill_history.py
+|    ├── dashboard
+|    │    ├── dashboard.py
+|    │    ├── calculator.py
+|    │    └── profile.py
+|    ├── database
+|    │    ├── db_connection.py
+|    │    └── queries.py 
+|    ├── session.py
+|    └── main.py
+├── .idea
+├── .gitignore
+├── Image
+└── README.md
 ```
 
 ## ▶ How to Run
