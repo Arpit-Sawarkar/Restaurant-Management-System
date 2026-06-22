@@ -19,7 +19,7 @@ The proposed solution is a Restaurant Management System that automates restauran
 ## 🛠 Technologies Used
 ### ⚙ Programming Language:
 - Python 3.13
-- Tkinter (GUI)
+- Tkinter (Python Library for GUI)
 ### 🗄 Database:
 - MySQL
 ### 🔧 Tools:
