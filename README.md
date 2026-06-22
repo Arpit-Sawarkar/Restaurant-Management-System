@@ -59,4 +59,6 @@ Restaurant-Management-System
 ## 📥 Download APK
 
 ## 📸 Screenshots
-![Login / Signup] (Image/login.png)
+! [Login / Signup](Image/login.png)
+! [Dashboard](Image/dashboard.png)
+! [Bill / Bill Histor / Profile](Image/bill.png)
