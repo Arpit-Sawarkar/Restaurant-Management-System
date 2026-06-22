@@ -63,4 +63,4 @@ Restaurant-Management-System
 
 ![Dashboard](Image/dashboard.png)
 
-![Bill / Bill Histor / Profile](Image/bill.png)
+![Bill / Bill History / Profile](Image/bill.png)
