@@ -8,7 +8,7 @@ def open_profile(dashboard_window):
     window.geometry("+1000+80")
     window.resizable(0, 0)
     window.configure(bg="#f0f0f0")
-    user=session.current_user
+    user= session.current_user
     title = tk.Label(window, text="My Profile", font=("Arial", 15, "bold"), bg="#f0f0f0")
     title.pack(pady=(15,0))
     icon = tk.Label(window, text="👤", font=("Arial", 100), bg="#f0f0f0")
@@ -26,7 +26,7 @@ def open_profile(dashboard_window):
         window.destroy()
 
     def logout():
-        update_login_status(session.current_user[2],0)
+        update_login_status(session.current_user[2], 0)
         session.current_user=None
         dashboard_window.destroy()
         window.destroy()
