@@ -27,10 +27,34 @@ The proposed solution is a Restaurant Management System that automates restauran
 
 ## 📂 Project Structure
 ```
+Restaurant-Management-System
+│
+├── auth
+│   ├── login.py
+│   └── signup.py
+├── billing
+│   ├── bill_generator.py
+│   └── bill_history.py
+├── dashboard
+│   ├── dashboard.py
+│   ├── calculator.py
+│   └── profile.py
+├── database
+│   ├── db_connection.py
+│   └── queries.py 
+├── session.py
+└── main.py
 
 ```
 
 ## ▶ How to Run
+- Install Python 3.x
+- Install MySQL Server
+- Create the required database and tables
+- Update database credentials in db_connection.py
+- Install required package:
+- pip install mysql-connector-python
+- Run the project:
 
 ## 📥 Download APK
 
